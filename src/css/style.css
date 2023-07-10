@@ -23,8 +23,9 @@ body {
     outline: 5px solid rgb(24, 207, 201);
 }
 
-.transition {
+/* .transition { */
     /* transform: scale(1, 0);
     transition: transform 1s linear; */
+    /* margin-bottom: auto;
     transition: margin-bottom 2s linear;
-}
+} */
